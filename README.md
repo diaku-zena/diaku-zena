@@ -30,4 +30,4 @@
 <img  align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diaku-zena&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diaku-zena&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
